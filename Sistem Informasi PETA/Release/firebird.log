@@ -1,0 +1,48 @@
+
+ITWAWAN-LAPTOP	Wed Feb  2 08:25:46 2022
+	INET/inet_error: send errno = 10054, server host = 192.168.99.70, address = 192.168.99.70/2022
+
+
+ITWAWAN-LAPTOP	Wed Feb  2 08:25:46 2022
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database.
+	Uncommitted work may have been lost.
+	Error writing data to the connection.
+	send_packet/send
+
+
+ITWAWAN-LAPTOP	Thu Feb  3 12:40:10 2022
+	INET/inet_error: send errno = 10054, server host = 192.168.99.70, address = 192.168.99.70/2022
+
+
+ITWAWAN-LAPTOP	Thu Feb  3 12:40:10 2022
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database.
+	Uncommitted work may have been lost.
+	Error writing data to the connection.
+	send_packet/send
+
+
+ITWAWAN-LAPTOP	Tue Feb  8 14:47:18 2022
+	INET/inet_error: read errno = 10054, server host = 192.168.99.70, address = 192.168.99.70/2022
+
+
+ITWAWAN-LAPTOP	Mon Feb 14 09:50:16 2022
+	INET/inet_error: send errno = 10054, server host = 192.168.99.70, address = 192.168.99.70/2022
+
+
+ITWAWAN-LAPTOP	Mon Feb 14 09:50:16 2022
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database.
+	Uncommitted work may have been lost.
+	Error writing data to the connection.
+	send_packet/send
+
+
+ITWAWAN-LAPTOP	Mon Feb 14 10:06:00 2022
+	INET/inet_error: send errno = 10054, server host = 192.168.99.70, address = 192.168.99.70/2022
+
+
+ITWAWAN-LAPTOP	Mon Feb 14 10:06:00 2022
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database.
+	Uncommitted work may have been lost.
+	Error writing data to the connection.
+	send_packet/send
+
